@@ -11,7 +11,7 @@ We need to first make sure that we have everything we need to create our first A
 1. Make sure Angular CLI is installed
 	1. Open Terminal (Mac)/CMD (Windows)
 	1. Type `ng version` and hit enter. _If you version info about Angular you already have Angular CLI installed 👍👍👍 (You are done 🥳)_
-	1. If **not**, type `npm install -g @angular/cli` into the terminal and hit enter. Once this is done, NPM will be installed 👍👍👍
+		1. If **not**, type `npm install -g @angular/cli` into the terminal and hit enter. Once this is done, NPM will be installed 👍👍👍
 	
 ### 🔥🔥 We are now ready to write some code!! 🔥🔥
     
